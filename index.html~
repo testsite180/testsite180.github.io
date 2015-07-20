@@ -84,8 +84,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <!--<div class="intro-lead-in">Planet Hoppers</div>
-                -->
+                <div class="intro-lead-in">Planet Hoppers</div>
                
                 <div class="intro-heading">Travel with us today!</div>
                 <div class = "icons">
