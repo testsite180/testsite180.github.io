@@ -1506,16 +1506,16 @@ blockquote p {
   border-color: #DDD;
 }
 .btn-primary {
-  background-color: #e0401d;
-  border-color: #d73d1c;
+  background-color: #fed136;
+  border-color: #fed136;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-  background-color: #c93a1a;
-  border-color: #c93a1a;
+  background-color: #fed136;
+  border-color: #fed136;
 }
 .btn-primary[disabled],
 .btn-primary.disabled {
